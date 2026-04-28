@@ -1,0 +1,14 @@
+body{
+    color: rgb(22, 22, 22);
+    background-color: rgb(63, 139, 253);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#contenedor{
+background-color: white;
+border-radius: 5px;
+max-width: 1000px;
+margin: 0 auto;
+padding: 20px;
+}
